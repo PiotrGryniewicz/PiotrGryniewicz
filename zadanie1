@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+	<html>
+		<body>
+			<p id="Hello"></p>
+				<script>
+				document.getElementById("Hello").innerHTML = "Hello ZSET";
+				</script>
+		</body>
+	</html>
